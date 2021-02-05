@@ -6,5 +6,5 @@
 I'm a Software Engineer and GIS Specialist. 
 
 Currently I'm focused on:
-- 📚 Studying the ArcGIS JavaScript API, Flask, and Pytest for my position at the Spatial Studies Lab at Rice University.
-- 👨‍💻 Studying more in depth about Node.js, React, and React Native apps.
+- 📚 Studying the ArcGIS JavaScript API, React, and TDD for my position at the Spatial Studies Lab at Rice University.
+- 👨‍💻 Studying more in depth about Node.js and React
