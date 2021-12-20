@@ -1,8 +1,8 @@
 ## Hello, I'm Wilson Franca! 👋
-### I'm a Full Stack Developer based in Redding, CA
+### I'm a Front End Developer based in Redding, CA
 
-- 🏢 I'm currently working at **Rice University**
-- ⚙️ I use daily: `.tsx`, `.ts`, `.js`, `.html`, `.css`, `.py`
+- 🏢 I'm currently working at **[FieldRoutes](https://www.fieldroutes.com/)**
+- ⚙️ I use daily: `.tsx`, `.ts`, `.js`, `.scss`, `.graphql`, `.py`
 - 🌍 I'm mostly active within the **JavaScript Community** and **Redding Area Design & Developers (RADD)**
 - ⚡️ Fun fact: I really want to adopt a mini pig =P 
 - 🌱 Learning all about **Next.js** and **Accessibility**
