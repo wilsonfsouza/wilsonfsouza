@@ -6,7 +6,7 @@
 - 🌍 I'm mostly active within the **JavaScript Community**
 - ⚡️ Fun fact: I really want to adopt a mini pig =P 
 - 🌱 Learning all about **Design Systems** and **Accessibility**
-- 👨‍💻 Current side project [Ignite Call Design System]([https://github.com/wilsonfsouza/focus-tracker-next](https://github.com/wilsonfsouza/ignite-call-design-system))
+- 👨‍💻 Current side project [Ignite Call Design System](https://github.com/wilsonfsouza/ignite-call-design-system)
 
 - 📫 You can reach me at:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilsonfrancads/en)](https://www.linkedin.com/in/wilsonfrancads/en)
