@@ -1,12 +1,12 @@
 ## Hello, I'm Wilson Franca! 👋
 ### I'm a Front End Developer based in Redding, CA
 
-- 🏢 I'm currently working at **[FieldRoutes](https://www.fieldroutes.com/)**
+- 🏢 I'm currently working at **[FieldRoutes, a Service Titan Company](https://www.fieldroutes.com/)**
 - ⚙️ I use daily: `.tsx`, `.ts`, `.js`, `.scss`, `.graphql`, `.py`
-- 🌍 I'm mostly active within the **JavaScript Community** and **Redding Area Design & Developers (RADD)**
+- 🌍 I'm mostly active within the **JavaScript Community**
 - ⚡️ Fun fact: I really want to adopt a mini pig =P 
-- 🌱 Learning all about **Next.js** and **Accessibility**
-- 👨‍💻 Current side project [Smart.it](https://github.com/wilsonfsouza/focus-tracker-next)
+- 🌱 Learning all about **Design Systems** and **Accessibility**
+- 👨‍💻 Current side project [Ignite Call Design System]([https://github.com/wilsonfsouza/focus-tracker-next](https://github.com/wilsonfsouza/ignite-call-design-system))
 
 - 📫 You can reach me at:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilsonfrancads/en)](https://www.linkedin.com/in/wilsonfrancads/en)
