@@ -1,12 +1,11 @@
 ## Hello, I'm Wilson Franca! 👋
-### I'm a Front End Developer based in Redding, CA
+### I'm a Full Stack Developer with strong Front End experience based in Redding, CA
 
-- 🏢 I'm currently working at **[FieldRoutes, a Service Titan Company](https://www.fieldroutes.com/)**
 - ⚙️ I use daily: `.tsx`, `.ts`, `.js`, `.scss`, `.graphql`, `.py`
 - 🌍 I'm mostly active within the **JavaScript Community**
-- ⚡️ Fun fact: I really want to adopt a mini pig =P 
-- 🌱 Learning all about **Design Systems** and **Accessibility**
-- 👨‍💻 Current side project [Ignite Call Design System](https://github.com/wilsonfsouza/ignite-call-design-system)
+- ⚡️ Fun facts: I love playing tennis and pickleball. I'm a cat dad.
+- 🌱 Learning all about **Design Patterns** and **Node.js**
+- 👨‍💻 Current side project [My-Gympass-API](https://github.com/wilsonfsouza/my-gympass-node-api)
 
 - 📫 You can reach me at:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilsonfrancads/en)](https://www.linkedin.com/in/wilsonfrancads/en)
