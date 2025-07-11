@@ -3,9 +3,9 @@
 
 - ⚙️ I use daily: `.tsx`, `.ts`, `.js`, `.scss`, `.graphql`, `.py`
 - 🌍 I'm mostly active within the **JavaScript Community**
-- ⚡️ Fun facts: I love playing tennis and pickleball. I'm a cat dad.
-- 🌱 Learning all about **Design Patterns** and **Node.js**
-- 👨‍💻 Current side project [My-Gympass-API](https://github.com/wilsonfsouza/my-gympass-node-api)
+- ⚡️ Fun facts: I love playing tennis, singing, and exploring new places. I'm a cat dad.
+- 🌱 Learning all about **AI**
+- 👨‍💻 Current side project [live-streamming-AI-agent](https://github.com/wilsonfsouza/live-q-and-a)
 
 - 📫 You can reach me at:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilsonfrancads/en)](https://www.linkedin.com/in/wilsonfrancads/en)
